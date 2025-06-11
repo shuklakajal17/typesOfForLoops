@@ -7,10 +7,14 @@ for(let i = 0; i <arr.length; i++){
 }
 
 
+
+
 //for of
 for(let value of arr){
     console.log(value);
 }
+
+
 
 
 //for in 
@@ -21,10 +25,14 @@ let person = {
 }
 
 
+
+
 //to get keys
 for (let key in person){
     console.log(key)
 }
+
+
 
 //to get values
 for (let key in person) {
